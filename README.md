@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**withtimesgo1115/withtimesgo1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**withtimesgo1115/withtimesgo1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Channing's github stats](https://github-readme-stats.vercel.app/api?username=withtimesgo1115&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
